@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Nameless Wolf](https://up.htmlacademy.ru/htmlcss/20/user/611253).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Мирошниченко] (https://htmlacademy.ru/profile/id591417).
 
 ---
 
